@@ -16,10 +16,10 @@ mvn compile exec:java -Dexec.mainClass=hello.projects.dataflowwc.dataflowwc.Word
 
 OR you can create templete with the same command as above without exec and use that template to invoke dataflow from cloud function/ Pub Sub/ etc..
 
-###Seperate files created in storage
+### Seperate files created in storage
 
 ![Alt text](storage.png?raw=true "Seperate files created in storage")
 
-###dataflow job will looks like this
+### dataflow job will looks like this
 
 ![Alt text](dataflow.png?raw=true "dataflow job will looks like this")
