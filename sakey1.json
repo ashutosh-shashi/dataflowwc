@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-airway-290412",
+  "private_key_id": "e360f411dda107e632ecebac96444090e4f554aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQ8h/7NxGfE4bk\nTwP0OmXy5uDLKAGAoHky7jdh9Nxtq7RTT9b+0frDruuelbc8WlFwR2QEsms9rvyt\nHMK1Au28Um/l1UH4sYJE2mQ6d1lnJyQ5d3E7fKWLJabv17v1sHLVA/Lnq7R3HMCj\nV/jjNGJBSbz+Q5Frg6q7AehY52yuHiLKiGI+YF/lGQjOV8YTeyEoVS68QuzyA9RO\nOqC8u1qXif2P8ouONNKyGVApgQ3Ck1gUemmCzp1qRaL/pEhhOV+rX00E1lU95zgS\nsIFbL1nHY9/94NmXYrG5BmDyRimWBKmNorVjxlASWJ1qsVGj5XiVtZsGfgezjw6l\nTPiArdTPAgMBAAECggEABOUoegN8xN0+oQH00Dq+AVtqxscDG0+lcuLjW/DjwOXG\nS/SrqM95Te01EpYGf4iirM1nGKwt6Fdl5ogiIJreDI4m2Uw/03ZV6p1gOoPtW7PR\nYAojTi8CKEDinRcGx2ATgL4xZexBRq83PPeroCtqEL+8x5mLP7uioyOIBU32OFXJ\n3sS0WJsbixGf+7VXyOiftTf5VaASENkSo/N9BaT1ze0Dnt/rjYia1NPr9w+H7OtL\nRxrOb1uVXqdWyjuYjjp1dWebuC5tY9uJJK1qGgToGRwq2T3dr+gt5OFCBWg5ry9x\nar1Kczw3kTFEY8ZeeXHSe33a2/TqFvpk84DCdeU5gQKBgQDBWN4+hJPUHkwwWn28\nSjZn5lQvvGY3AGgMdBd2sY3NM0ogOvrXybEB7EplCvZcgCrvE+N2HTVIiS1sy/K6\nT15obxUN7WRbutIJMr99eu1xVnD/RLaq/Gmgn7CX2eY6VJgTxV73XTDm7FUNPced\nvS8nyR6BozKrwE6/bWwJeU97awKBgQC/6h5eBbyk+HokBND/gG5KeKIqdTaAK4oa\n20dyZQLl4v+IEBX01U5qDYJVzQTzDtXhoYFWJ17Mmesq6qCTuA+XBRx33iL88u/m\nrTd6sEGpwAgCpGrEwwH1EC4f62RblX8FfcXq/wbmDisDkDfI5XGyky67GyWl1R94\nLLs7XhMpLQKBgDdiUn9MEOCBMUfklAHcrEsE4nauHAWDW0q98n6wi7MNDx2+Z15q\nywaG/iSFiF6k5CeJ5e1OnpXBnb59iXEvDRcTQs+zgbz4/fNekxXJobyGi2XD9CN0\nnHlDZR2KcHWjB9EaB4MKMdjkN9TMLqMTry9RYCi4a+pg8u3I1Vq9YjQzAoGAfPYD\nmfMgV0bXuPZN4+ALcIBGD2FNAH3ZKg2X4vu0vF1nR4A527a8nT94m0eorl79kzIn\nViLCjnS2dLZbonPZ6trQI5jHrW6+GLS3CDMWPmKklJvcTYwwjRJhBjWunhekor23\njoFKS6f0CBjyyePkeYNujTRq+iTgnc56h3iE/20CgYEAi3Qdhfq4EiTNGmOSek4m\nw7ARw9F415RkmGj7lRHlQ7lnuN/ObsLx+uizYa+dydnwxg7w37+llA4N6D2abfe+\nuuG24905kMpRdIuS2essrQvbHkR/EtbjwKoyxxgiWYrGdy0TSUd7gERiz+5464Rf\nUPAaiHpJ+KKX/sP0HYPNpok=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataflowsa@snappy-airway-290412.iam.gserviceaccount.com",
+  "client_id": "104354000113502991166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataflowsa%40snappy-airway-290412.iam.gserviceaccount.com"
+}

@@ -1,0 +1,8 @@
+hello/projects/dataflowwc/dataflowwc/WordCountApp.class
+hello/projects/dataflowwc/dataflowwc/WordCountApp$ExtractWordsFn.class
+hello/projects/dataflowwc/dataflowwc/WordCountApp$CntWords.class
+hello/projects/dataflowwc/dataflowwc/WcResults.class
+hello/projects/dataflowwc/dataflowwc/WordCountApp$KVComparator.class
+hello/projects/dataflowwc/dataflowwc/WCPipelineOptions.class
+hello/projects/dataflowwc/dataflowwc/WordCountApp$FormatAsSumTextFn.class
+hello/projects/dataflowwc/dataflowwc/WordCountApp$FormatAsTextFn.class
